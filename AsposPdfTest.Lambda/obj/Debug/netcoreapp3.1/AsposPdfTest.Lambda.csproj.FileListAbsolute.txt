@@ -1,0 +1,15 @@
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\bin\Debug\netcoreapp3.1\AsposPdfTest.Lambda.deps.json
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\bin\Debug\netcoreapp3.1\AsposPdfTest.Lambda.runtimeconfig.json
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\bin\Debug\netcoreapp3.1\AsposPdfTest.Lambda.runtimeconfig.dev.json
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\bin\Debug\netcoreapp3.1\AsposPdfTest.Lambda.dll
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\bin\Debug\netcoreapp3.1\AsposPdfTest.Lambda.pdb
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\bin\Debug\netcoreapp3.1\AsposPdfTest.dll
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\bin\Debug\netcoreapp3.1\AsposPdfTest.pdb
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.csprojAssemblyReference.cache
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.AssemblyInfoInputs.cache
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.AssemblyInfo.cs
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.csproj.CopyComplete
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.dll
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.pdb
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest.Lambda\obj\Debug\netcoreapp3.1\AsposPdfTest.Lambda.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\bin\Debug\netcoreapp3.1\AsposPdfTest.deps.json
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\bin\Debug\netcoreapp3.1\AsposPdfTest.dll
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\obj\Debug\netcoreapp3.1\AsposPdfTest.csprojAssemblyReference.cache
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\obj\Debug\netcoreapp3.1\AsposPdfTest.AssemblyInfoInputs.cache
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\obj\Debug\netcoreapp3.1\AsposPdfTest.AssemblyInfo.cs
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\bin\Debug\netcoreapp3.1\AsposPdfTest.pdb
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\obj\Debug\netcoreapp3.1\AsposPdfTest.csproj.CoreCompileInputs.cache
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\obj\Debug\netcoreapp3.1\AsposPdfTest.dll
+C:\Users\vghanithala\source\repos\AsposPdfTest\AsposPdfTest\obj\Debug\netcoreapp3.1\AsposPdfTest.pdb
